@@ -1,3 +1,6 @@
+Original repository   
+https://github.com/riffusion/riffusion    
+
 # :guitar: Riffusion
 
 <a href="https://github.com/riffusion/riffusion/actions/workflows/ci.yml?query=branch%3Amain"><img alt="CI status" src="https://github.com/riffusion/riffusion/actions/workflows/ci.yml/badge.svg" /></a>
