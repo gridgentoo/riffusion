@@ -1,5 +1,8 @@
 Original repository   
-https://github.com/riffusion/riffusion    
+https://github.com/riffusion/riffusion  
+
+6 СЕКРЕТОВ общения с ChatGPT [OpenAI] искусственный интеллект.   
+https://www.youtube.com/watch?v=5T-gOirbjMo&list=PLPGLtlGZXkA9rgQxj9gVgz6TQ3aAYhFZU    
 
 Новые AI инструменты которые круче chat gpt.   
 https://www.youtube.com/watch?v=8xyL2GHzWkA    
