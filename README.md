@@ -1,6 +1,9 @@
 Original repository   
 https://github.com/riffusion/riffusion    
 
+Новые AI инструменты которые круче chat gpt.   
+https://www.youtube.com/watch?v=8xyL2GHzWkA    
+
 ТОП нейросети для создания ВИДЕО и МУЗЫКИ.   
 https://www.youtube.com/watch?v=TKjDOwvXsaU   
 
